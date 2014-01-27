@@ -1,0 +1,169 @@
+html,body {
+	margin:0;
+	padding:0;
+}
+
+body {
+   -moz-opacity:.999; 
+	font: 90% tahoma, arial, sans-serif; 
+	text-align:center;
+}
+
+p {
+	margin:0 10px 10px;
+}
+
+a f{
+	color: #000000;
+	padding:10px;  
+}
+
+#header {
+}
+
+#header h1{
+	float: left;
+	height: 145px;
+	line-height: 50px;
+	margin: 0;
+	padding-left: 30px;
+	padding-top: 35px;
+	background-color: #22B38E;
+	color: #000;  
+	width: 425px;
+	font-size: 350%;
+	font-style: italic;
+	font-family: papyrus;
+}
+
+.logoWrapper {
+	float:left;
+	width: 97%;
+	padding: 0 10px 5px 10px;
+}
+
+.logoWrapper a{
+	padding: 0;
+}
+
+.logoWrapper a img{
+	float: left;
+	padding: 0 5px 0 0;
+	width: 32%;
+	height: 180px;
+}
+
+#container{
+	text-align:left
+}
+
+
+.center  {
+	text-decoration: none;
+	text-align: center;
+}
+.center  a {
+	text-decoration: none;
+	text-align: center;
+	font-size: 14px;
+}
+
+.center  a:hover{
+	text-decoration: none;
+	text-align: center;
+	background-color: yellow;
+}
+
+
+
+.footer{
+	padding:10px 10px 10px 10px;
+	background-color: #22B38E;
+	text-align: center;
+}
+
+.footer p { 
+	margin:0;
+	padding:5px 10px 0 0;
+}
+
+.footer a { 
+	margin:0;
+	padding: 0;
+}
+
+#container {
+	width:700px;
+	margin:0 auto;
+}
+
+.content p {
+	line-height:1.5;
+	margin:0 0 10px 0;
+}
+
+.content h1 {
+	font-size: 20px;
+}
+
+.content {
+	color: white;
+	float: center;
+	padding: 10px;
+	font-size: 16px;
+	background-color: teal;
+}
+
+#timeStamp 
+{
+	padding: 20px;
+	text-align: center;
+}
+
+.content ul li{
+	font-size: 14px;
+}
+
+
+#navigation {
+	float:left;
+	width:130px;
+	line-height:2.5;
+	font-size: 16px;
+	padding: 0 0 0 10px;
+}
+
+.submitNumberWrapper {
+	width: 100%;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#navigation .nav .navLink  a {
+	text-decoration: none;
+}
+
+#navigation .nav .navLink  a:hover {
+	background-color: yellow;
+} 
+
+.separator {
+	clear:both;
+	width:100%;
+} 
+
+.separator hr {
+	color: #FFB73D;
+}
+
+.padLeft  {
+	padding-left: 10px;
+}
+.fullWidth  {
+	width: 97%;
+}
+
+
+
+
